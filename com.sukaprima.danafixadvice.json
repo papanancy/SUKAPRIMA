@@ -1,0 +1,265 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://www.app-privacy-policy.com/live.php?token=0JRInyGUISfbJyp1CToFlevWGLCJ918C",
+      "email_feedback_and_report": "daniellll21577@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 0,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/CATEGORY/tips2.png"
+    },
+    {
+      "id": 2,
+      "name": "Trick",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/CATEGORY/tricks2.png"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Tips",
+      "title": "Cara Pinjam Uang di Danafix Limit Hingga Rp10 Juta, Resmi OJK",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im01.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/1.Cara%20Pinjam%20Uang%20di%20Danafix%20Limit%20Hingga%20Rp10%20Juta%2C%20Resmi%20OJK.html",
+      "video": ""
+    },
+    {
+      "id": 2,
+      "category": "Tips",
+      "title": "Langsung Cair, Cara Pinjam Uang di Pinjol Ammana Syariah Tanpa Riba dan Jaminan",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im02.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/2.Langsung%20Cair%2C%20Cara%20Pinjam%20Uang%20di%20Pinjol%20Ammana%20Syariah%20Tanpa%20Riba%20dan%20Jaminan.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips",
+      "title": "Cara Cek KTP Dipakai Orang Lain Utang Pinjol dan Solusinya",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im03.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/3.Cara%20Cek%20KTP%20Dipakai%20Orang%20Lain%20Utang%20Pinjol%20dan%20Solusinya.html",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Tips",
+      "title": "Begini Cara Pinjam Uang di Shopee, Ketahui Syaratnya Agar Cepat Cair",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im04.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/4.Begini%20Cara%20Pinjam%20Uang%20di%20Shopee%2C%20Ketahui%20Syaratnya%20Agar%20Cepat%20Cair.html",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Tips",
+      "title": "Pinjol Mengungkap cara kerja aplikasi pemberi utang yang memeras nasabah dengan foto-foto bugil",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im05.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/5.Pinjol%20Mengungkap%20cara%20kerja%20aplikasi%20pemberi%20utang%20yang%20memeras%20nasabah%20dengan%20foto-foto%20bugil.html",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Tips",
+      "title": "Cara Pinjol Ilegal Mendapatkan Data Diri Calon Korban",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im06.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/6.Cara%20Pinjol%20Ilegal%20Mendapatkan%20Data%20Diri%20Calon%20%E2%80%98Korban%E2%80%99.html",
+      "video": ""
+    },
+    {
+      "id": 7,
+      "category": "Tips",
+      "title": "Mengapa memilih DanaMu",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im07.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/7.Mengapa%20memilih%20DanaMu.html",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Tips",
+      "title": "Tips Mengajukan Pinjaman Online agar Cepat Cair",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im08.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/8.Tips%20Mengajukan%20Pinjaman%20Online%20agar%20Cepat%20Cair.html",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "Tips",
+      "title": "Easycash",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im09.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/9.Easycash.html",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "Tips",
+      "title": "Danamas",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im10.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/10.Danamas.html",
+      "video": ""
+    },
+    {
+      "id": 11,
+      "category": "Trick",
+      "title": "Maucash",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im11.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/11.Maucash.html",
+      "video": ""
+    },
+    {
+      "id": 12,
+      "category": "Trick",
+      "title": "RupiahCepat",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im12.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/12.RupiahCepat.html",
+      "video": ""
+    },
+    {
+      "id": 13,
+      "category": "Trick",
+      "title": "Kredit Pintar",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im13.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/13.Kredit%20Pintar.html",
+      "video": ""
+    },
+    {
+      "id": 14,
+      "category": "Trick",
+      "title": "AdaKami",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im14.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/14.AdaKami.html",
+      "video": ""
+    },
+    {
+      "id": 15,
+      "category": "Trick",
+      "title": "DanaRupiah",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im15.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/15.DanaRupiah.html",
+      "video": ""
+    },
+    {
+      "id": 16,
+      "category": "Trick",
+      "title": "Indodana",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im16.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/16.Indodana.html",
+      "video": ""
+    },
+    {
+      "id": 17,
+      "category": "Trick",
+      "title": "KoinWorks",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im17.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/17.KoinWorks.html",
+      "video": ""
+    },
+    {
+      "id": 18,
+      "category": "Trick",
+      "title": "OK Bank KTA",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im18.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/18.OK!%20Bank%20KTA.html",
+      "video": ""
+    },
+    {
+      "id": 19,
+      "category": "Trick",
+      "title": "Amartha",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im19.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/19.Amartha.html",
+      "video": ""
+    },
+	{
+      "id": 20,
+      "category": "Trick",
+      "title": "KTA Kilat",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im20.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/20.KTA%20Kilat.html",
+      "video": ""
+    },
+	{
+      "id": 21,
+      "category": "Trick",
+      "title": "KlikA2C",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/IMG/im21.jpg",
+      "content": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/HTML/21.KlikA2C.html",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Wallpaper Alam Indonesia",
+      "image": "https://raw.githubusercontent.com/papanancy/SUKAPRIMA/main/MORE/icon.png",
+      "url": "https://play.google.com/store/apps/details?id=com.jayaagen.alamindonesia"
+    }
+  ]
+}
